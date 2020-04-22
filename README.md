@@ -12,7 +12,7 @@ We'll try to complete your recommendation as soon as possible.
 
 ### Honour Board :bowing_man: :clipboard: - 
  - Rutu Shah - Member :girl:
- - Bhavin Nayee - Contributor :boy:
+ - Bhavin Nayee - Contributor :boy:  
 
 
 #### :warning: Any suggestions or bugs? :beetle: We're welcoming!  - Please add it as an issue in repository, we'll get back to you.
