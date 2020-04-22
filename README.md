@@ -11,8 +11,8 @@ We'll try to complete your recommendation as soon as possible.
 **Designed by Rahul R Pandya** :computer: :octocat:
 
 ### Honour Board :bowing_man: :clipboard: - 
- - Rutu Shah :girl:
- - Bhavin Nayee :boy:
+ - Rutu Shah - Member :girl:
+ - Bhavin Nayee - Contributor :boy:
 
 
 #### :warning: Any suggestions or bugs? :beetle: We're welcoming!  - Please add it as an issue in repository, we'll get back to you.
